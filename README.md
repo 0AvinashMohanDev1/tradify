@@ -1,6 +1,6 @@
 # Tradify Application
 
-This is a Laravel project designed for note-taking and sharing. Below are the steps to set up the project locally and use its features.
+This is a Tradify Application designed for note-taking and sharing. Below are the steps to set up the project locally and use its features.
 
 ## Getting Started
 
